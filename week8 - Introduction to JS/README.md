@@ -1,4 +1,4 @@
-## JavaScript questions 
+## 📄JavaScript questions 
 
 > **Note:**
 >These questions test concepts covered in Week 8 (Introduction to JS)
