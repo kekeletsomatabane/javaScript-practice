@@ -90,7 +90,7 @@
    - It will print each element exactly once
 
    - It logs: 
-    ```console
+    ```
     Liverpool
     Juventus
     AC Milan
