@@ -27,4 +27,4 @@ You can:
  - Test your code before submitting.
  - Be respectful and helpful in discussions. 
 
- >If you're unsure about anything, feel free to open an issue with your question
+ >If you're unsure about anything, feel free to open an issue with your question or just drop it in the discussion tab. 
